@@ -11,6 +11,10 @@
 
 `Meadows_Programs` - Program modules, containing a pre-installed program
 
+`Meadows` - Root
+
+`Meadows_Mod_Mode` - Mode module from mode manager
+
 These are all the repository flag types currently in use for 2020 Meadows development.
 
 ***
